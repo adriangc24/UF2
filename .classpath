@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="FibonacciMillorat"/>
 	<classpathentry kind="src" path="DocumentacioJava"/>
 	<classpathentry kind="src" path="FuncionsProves"/>
@@ -9,5 +8,6 @@
 	<classpathentry kind="src" path="pt1i2"/>
 	<classpathentry kind="src" path="pt1Recursvitat"/>
 	<classpathentry kind="src" path="pt2Recursivitat"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
